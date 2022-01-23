@@ -1,0 +1,15 @@
+#event{
+    background-color: lightblue;
+    width: 1200px;
+    height: 600px;
+    text-align: center;
+    display: inline-block;
+}
+#chri{
+    text-align: center;
+    float: left;
+}
+#new{
+    text-align: center;
+    float: right;
+}
